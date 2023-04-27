@@ -5,10 +5,10 @@ Possible improvements : more training data, testing on non-Antartica (Greenland?
 (this might need new models or new training).\
 \
 Note : directories should be changed according to your computer and to file names.\
-Main results :\
+Main results :
 
-<img width="464" alt="Results" src="https://user-images.githubusercontent.com/119788354/234788943-a017f6a0-e659-4248-af88-252c7bf332cf.png">\
+<img width="530" alt="Results" src="https://user-images.githubusercontent.com/119788354/234788943-a017f6a0-e659-4248-af88-252c7bf332cf.png">
 
-Evaluation of said results using scores and the threshold for pixel detection :\
+Evaluation of said results using scores and the threshold for pixel detection :
 
 <img width="530" alt="Evaluate_reply" src="https://user-images.githubusercontent.com/119788354/234789195-375d6878-f0b9-44bf-9275-d6c5e2c1b599.png">
