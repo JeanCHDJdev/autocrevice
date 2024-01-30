@@ -5,6 +5,7 @@ Possible improvements : more training data, testing on non-Antartica (Greenland?
 (this might need new models or new training).\
 \
 Note : directories should be changed according to your computer and to file names.\
+Please install keras, tensorflow, matplotlib, numpy and have a good python environnement for it to work. I recommend model_evaluation.py as the most complete evaluation file.\
 Main results :
 
 <img width="530" alt="Results" src="https://user-images.githubusercontent.com/119788354/234788943-a017f6a0-e659-4248-af88-252c7bf332cf.png">
