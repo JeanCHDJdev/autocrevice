@@ -3,6 +3,8 @@ AI for crevice detection in Antartica.
 One week school project on the theme "Observing earth for cryosphere evolution". \
 Possible improvements : more training data, testing on non-Antartica (Greenland?) glaciers and mountain glaciers
 (this might need new models or new training).\
+
+Extension of this work can be found at https://github.com/Nicolas-Quiot/AICrevassedetection \
 \
 Note : directories should be changed according to your computer and to file names.\
 Please install keras, tensorflow, matplotlib, numpy and have a good python environnement for it to work. I recommend model_evaluation.py as the most complete evaluation file.\
